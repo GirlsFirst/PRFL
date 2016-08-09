@@ -44,7 +44,6 @@
 }
 
 #about_title {
-	left: ;
     line-height: 200px;
     margin: auto;
     margin-top: -100px;
@@ -53,4 +52,29 @@
     width: 100%;
     color: black;
     font-size: 200%;
+}
+
+#log_in_link{
+    line-height: 50px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 89%;
+    width: 100%;
+    color: black;
+    font-size: 120%;
+	text-align:center;
+
+}
+
+#sign_up_link{
+	line-height: 50px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 91%;
+    width: 100%;
+    color: black;
+    font-size: 120%;
+	text-align:center;
 }
